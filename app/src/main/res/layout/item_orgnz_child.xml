@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:paddingBottom="8dp"
+             android:paddingLeft="@dimen/activity_horizontal_margin"
+             android:paddingRight="@dimen/activity_horizontal_margin"
+             android:paddingTop="8dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <com.wyu.iwork.ui.CircleImageView
+            android:id="@+id/head"
+            android:layout_width="@dimen/head_40dp"
+            android:layout_height="@dimen/head_40dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_beauty"/>
+
+        <TextView
+            android:id="@+id/name"
+            style="@style/Base.Style.TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_gravity="center"
+            android:drawablePadding="8dp"
+            android:gravity="center"
+            android:text="@string/tab_contact"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tel"
+        style="@style/Base.Style.TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:drawablePadding="8dp"
+        android:drawableLeft="@drawable/ic_tab_my_selected"
+        android:gravity="center"
+        android:text="@string/test"
+        android:textSize="14sp"/>
+
+</FrameLayout>

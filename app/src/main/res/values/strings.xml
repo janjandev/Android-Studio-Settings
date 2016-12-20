@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IWork</string>
+    <string name="test">测试</string>
+
+    <string name="tab_app">应用</string>
+    <string name="tab_communication">交流</string>
+    <string name="tab_work">工作</string>
+    <string name="tab_dynamic">动态</string>
+    <string name="tab_my">我的</string>
+
+    <string name="tab_choice">精选</string>
+    <string name="tab_common_use">常用</string>
+    <string name="tab_navi">导航</string>
+
+    <string name="tab_chat">聊天</string>
+    <string name="tab_organization">组织架构</string>
+    <string name="tab_contact">通讯录</string>
+
+    <string name="CRM">CRM</string>
+    <string name="stock">库存</string>
+    <string name="purchase">采购</string>
+    <string name="settingApp">设置常用应用</string>
+
+</resources>
