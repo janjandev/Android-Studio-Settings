@@ -13,7 +13,7 @@ import java.util.Random;
  * Created by jhj_Plus on 2016/10/26.
  */
 public class Test {
-    private static final String TAG = "Test";
+    private static final String TAG = "Test--";
     private static Random sRandom=new Random();
     public static List<TestModel> getTestData(int count) {
         List<TestModel> testModels = new ArrayList<>();
