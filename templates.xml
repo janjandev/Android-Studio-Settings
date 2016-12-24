@@ -6,6 +6,10 @@
           <option name="groupName" value="Android" />
           <option name="key" value="foreach" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="const" />
+        </TemplateKey>
       </list>
     </option>
   </component>
