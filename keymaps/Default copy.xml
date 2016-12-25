@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+</keymap>

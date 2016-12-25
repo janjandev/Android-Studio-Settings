@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="SurroundWithLiveTemplate">
+        <abbreviation name="live template" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
