@@ -11,4 +11,27 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
+  <template name="foreach" value="for ($iterable_type$ $iterable_element$ : $iterable$) {&#10;    $cursor$&#10;}" description="iterate over an array or Iterable" toReformat="false" toShortenFQNames="true">
+    <variable name="iterable_type" expression="typeOfVariable(VAR)" defaultValue="String" alwaysStopAt="true" />
+    <variable name="iterable_element" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iterable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="c" value="false" />
+      <option name="OC_DECLARATION_C" value="false" />
+      <option name="OC_STATEMENT_C" value="false" />
+      <option name="OC_EXPRESSION_C" value="false" />
+      <option name="cpp" value="false" />
+      <option name="OC_DECLARATION_CPP" value="false" />
+      <option name="OC_STATEMENT_CPP" value="false" />
+      <option name="OC_EXPRESSION_CPP" value="false" />
+    </context>
+  </template>
 </templateSet>
