@@ -24,14 +24,6 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
-      <option name="c" value="false" />
-      <option name="OC_DECLARATION_C" value="false" />
-      <option name="OC_STATEMENT_C" value="false" />
-      <option name="OC_EXPRESSION_C" value="false" />
-      <option name="cpp" value="false" />
-      <option name="OC_DECLARATION_CPP" value="false" />
-      <option name="OC_STATEMENT_CPP" value="false" />
-      <option name="OC_EXPRESSION_CPP" value="false" />
     </context>
   </template>
 </templateSet>
