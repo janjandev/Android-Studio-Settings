@@ -21,4 +21,16 @@
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://139.129.128.145/svn/mutualHelp/Android" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://139.129.128.145/svn/mutualHelp/Android" />
+      </list>
+    </option>
+  </component>
 </application>
