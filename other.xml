@@ -24,11 +24,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://139.129.128.145/svn/wine/android" />
         <option value="https://139.129.128.145/svn/mutualHelp/Android" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://139.129.128.145/svn/wine/android" />
         <option value="https://139.129.128.145/svn/mutualHelp/Android" />
       </list>
     </option>
