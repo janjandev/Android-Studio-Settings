@@ -4,11 +4,6 @@
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_COMMENT" value="true" />
-      <option name="JAVA_STRING" value="true" />
-      <option name="COMPLETION" value="true" />
     </context>
   </template>
   <template name="foreach" value="for ($iterable_type$ $iterable_element$ : $iterable$) {&#10;    $cursor$&#10;}" description="iterate over an array or Iterable" toReformat="false" toShortenFQNames="true">
@@ -18,12 +13,7 @@
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_COMMENT" value="true" />
-      <option name="JAVA_STRING" value="true" />
-      <option name="COMPLETION" value="true" />
     </context>
   </template>
 </templateSet>
