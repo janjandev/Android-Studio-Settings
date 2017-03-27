@@ -34,8 +34,12 @@
           <option name="url" value="git@github.com:abspath/OpenWeibo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:android-cjj/Android-MaterialRefreshLayout.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android-Studio\MyOpenProjects" />
+    <option name="cloneParentDir" value="D:\Android-Studio\Github-Sample" />
   </component>
 </application>
