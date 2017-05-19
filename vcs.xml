@@ -50,8 +50,16 @@
           <option name="url" value="git@github.com:abspath/OpenFlickr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kaushikgopal/RxJava-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kaushikgopal/RxJava-Android-Samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android-Studio\MyOpenProjects" />
+    <option name="cloneParentDir" value="D:\Android-Studio\Github-Sample" />
   </component>
 </application>
