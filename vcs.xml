@@ -90,6 +90,10 @@
           <option name="url" value="git@github.com:canelmas/let.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:JakeWharton/butterKnife.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android-Studio\Github-Sample" />
