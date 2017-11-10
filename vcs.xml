@@ -110,8 +110,12 @@
           <option name="url" value="git@github.com:huajianjiang/ZXingAndroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:dm77/barcodescanner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android-Studio\MyOpenProjects" />
+    <option name="cloneParentDir" value="D:\Android-Studio\Github-Sample" />
   </component>
 </application>
