@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'gimi2017-08-09-android'" />
-    <option name="defaultScopeName" value="Module 'gimi2017-08-09-android'" />
+    <option name="customScope" value="Project 'wzqb'" />
+    <option name="defaultScopeName" value="Project 'wzqb'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'gimi2017-08-09-android'" />
+    <option name="SEARCH_SCOPE" value="Project 'wzqb'" />
   </component>
 </application>
