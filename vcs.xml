@@ -122,8 +122,12 @@
           <option name="url" value="git@gitee.com:GiMiAndroid/KXD.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ChenLittlePing/RecyclerCoverFlow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android-Studio\project-work" />
+    <option name="cloneParentDir" value="D:\Android-Studio\Github-Sample" />
   </component>
 </application>
