@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aa" type="ARCHIVE" />
-      <mapping ext="ogg" type="Native" />
-      <mapping ext="aar" type="Native" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="mp4" type="Native" />
+      <mapping ext="aar" type="Native" />
+      <mapping ext="ogg" type="Native" />
       <mapping pattern="colors" type="PLAIN_TEXT" />
       <mapping pattern="oui" type="PLAIN_TEXT" />
     </extensionMap>
