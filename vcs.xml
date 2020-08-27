@@ -186,6 +186,10 @@
           <option name="url" value="git@github.com:fluttercandies/extended_nested_scroll_view.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:codegrue/flutter_material_pickers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\flutter-projects" />

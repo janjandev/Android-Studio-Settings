@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="aa" type="ARCHIVE" />
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="ogg" type="Native" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="db" type="Native" />
