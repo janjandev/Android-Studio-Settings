@@ -3,8 +3,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/acti_main.xml" value="1.0" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/acti_scan.xml" value="0.15942028985507245" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/ad.xml" value="0.11594202898550725" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/acti_scan.xml" value="0.11956521739130435" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_location.xml" value="0.1" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_profile.xml" value="0.21" />
       </map>
     </option>
   </component>
