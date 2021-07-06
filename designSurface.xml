@@ -5,6 +5,15 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/acti_main.xml" value="1.0" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/acti_scan.xml" value="0.15942028985507245" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/ad.xml" value="0.11594202898550725" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_accent.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_accent_stroke_transparent.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_accent_translucent_capsule.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_bg.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_full_bg_variant.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_full_surface_variant.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_top_primary.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_top_surface.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/bg_round_corner_transparent.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_bitcoin.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_logout.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_menu.xml" value="0.2" />
@@ -18,10 +27,13 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_base.xml" value="0.14855072463768115" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_scrolling.xml" value="0.15942028985507245" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_secondary.xml" value="0.22" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_bio.xml" value="0.18115942028985507" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_location.xml" value="0.1" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_ping.xml" value="0.18115942028985507" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_profile.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_settings.xml" value="0.1" />
-        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_username.xml" value="0.33" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_username.xml" value="0.22" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_web.xml" value="0.1" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/header_dhcp_info.xml" value="0.1308876811594203" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/item_img_square.xml" value="0.1" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/item_post_base.xml" value="0.5" />
