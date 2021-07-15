@@ -25,10 +25,14 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/btn_checkbox_circle_outline.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/btn_checkbox_unchecked_mtrl.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_alipay.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_bitcoin.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_bitcoin_2.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_camera.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_google_pay.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_logout.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_menu.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_paypal.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/list_divider.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/list_divider_dash.xml" value="0.5" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/list_divider_large.xml" value="0.2" />
@@ -44,7 +48,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_scrolling.xml" value="0.15942028985507245" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_secondary.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_bio.xml" value="0.18115942028985507" />
-        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_donate.xml" value="0.33" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_donate.xml" value="0.45228215767634855" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_location.xml" value="0.1" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_auth_login.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_ping.xml" value="0.18115942028985507" />
