@@ -29,6 +29,8 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_bitcoin.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_bitcoin_2.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_camera.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_cut.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_database_refresh.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_google_pay.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_logout.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_menu.xml" value="0.2" />
@@ -72,6 +74,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_emoji.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_navigation_indicator.xml" value="0.17255434782608695" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_progress.xml" value="0.75" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_progress_db.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_switch.xml" value="0.67" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_text.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/toolbar_port_scan.xml" value="0.18115942028985507" />
