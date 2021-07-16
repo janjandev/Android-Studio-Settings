@@ -35,6 +35,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_logout.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_menu.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_paypal.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_wifi_settings.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/list_divider.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/list_divider_dash.xml" value="0.5" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/list_divider_large.xml" value="0.2" />
@@ -72,6 +73,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_image_frame.xml" value="0.14764492753623187" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_checkbox.xml" value="1.1" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_emoji.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_image.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_navigation_indicator.xml" value="0.17255434782608695" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_progress.xml" value="0.75" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_progress_db.xml" value="0.18489583333333334" />
