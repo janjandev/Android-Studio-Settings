@@ -26,6 +26,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/btn_checkbox_unchecked_mtrl.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/dialog_background_full.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_account.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_alipay.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_bitcoin.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_bitcoin_2.xml" value="0.2" />
@@ -101,7 +102,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/toolbar_settings.xml" value="0.3697916666666667" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/ping.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/settings.xml" value="0.18489583333333334" />
-        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/xml/prefs.xml" value="0.25" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/xml/prefs.xml" value="1.0" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout-notround-watch/alert_dialog_title_material.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout/activity_chooser_view_list_item.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout/chooser_grid.xml" value="0.18489583333333334" />
