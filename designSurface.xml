@@ -58,10 +58,13 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_scrolling.xml" value="0.15942028985507245" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_secondary.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_bio.xml" value="0.33" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_comment.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_donate.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_location.xml" value="0.1480978260869565" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_picker_birth.xml" value="0.33" />
-        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_form_app_version.xml" value="0.33" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_ping_statistics.xml" value="0.13134057971014493" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_port_input.xml" value="0.33" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_form_app_version.xml" value="0.25" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_ap_list.xml" value="0.1" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_app_versions.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_aps.xml" value="0.1743659420289855" />
