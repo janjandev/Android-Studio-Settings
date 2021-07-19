@@ -97,6 +97,10 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/item_post_base.xml" value="0.5" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/item_reply.xml" value="0.1743659420289855" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/list_divider.xml" value="0.18115942028985507" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/loading_empty.xml" value="0.16983695652173914" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/loading_empty_scrolling_view.xml" value="0.18" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/loading_pre_scrolling_view.xml" value="0.16983695652173914" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/loading_pre_up.xml" value="0.16983695652173914" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref.xml" value="0.18115942028985507" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_attractive.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_image_frame.xml" value="0.14764492753623187" />
