@@ -38,6 +38,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_menu.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_paypal.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_round_thumb_up.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_send.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_thumb_up.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_thumb_up_uped.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_wifi_settings.xml" value="0.2" />
@@ -58,13 +59,13 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_scrolling.xml" value="0.15942028985507245" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_secondary.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_bio.xml" value="0.33" />
-        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_comment.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_comment.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_donate.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_location.xml" value="0.1480978260869565" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_picker_birth.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_ping_statistics.xml" value="0.13134057971014493" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_port_input.xml" value="0.33" />
-        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_form_app_version.xml" value="0.33" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_form_app_version.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_ap_list.xml" value="0.1" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_app_versions.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_aps.xml" value="0.1743659420289855" />
@@ -105,7 +106,10 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_text.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/toolbar_port_scan.xml" value="0.18115942028985507" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/toolbar_settings.xml" value="0.3697916666666667" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/app_version_form.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/app_version_list.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/ping.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/post_list.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/settings.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/xml/prefs.xml" value="1.0" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout-notround-watch/alert_dialog_title_material.xml" value="0.18489583333333334" />
