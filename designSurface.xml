@@ -41,6 +41,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_paypal.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_round_thumb_up.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_send.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_shield_edit.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_telegram_logo.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_thumb_up.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_thumb_up_uped.xml" value="0.2" />
@@ -122,7 +123,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/loading_empty_scrolling_view.xml" value="0.18" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/loading_pre_scrolling_view.xml" value="0.16983695652173914" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/loading_pre_up.xml" value="0.16983695652173914" />
-        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref.xml" value="0.18115942028985507" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref.xml" value="0.5" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_attractive.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_image_frame.xml" value="0.16983695652173914" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/pref_widget_checkbox.xml" value="1.1" />
