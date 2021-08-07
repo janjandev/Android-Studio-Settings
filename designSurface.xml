@@ -67,6 +67,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_about.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_ap_config_selection.xml" value="0.25" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_ap_config_share_selection.xml" value="0.33" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_ap_config_sharing_selection.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_ap_connection_selection.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_bio.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_comment.xml" value="0.33" />
@@ -78,6 +79,8 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_ping_statistics.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_port_input.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_port_sort_filter.xml" value="0.16983695652173914" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_screenshot_chart.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_share_wifi.xml" value="0.25" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/emptyview_ap_list.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_app_version_form.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_app_versions.xml" value="0.16983695652173914" />
