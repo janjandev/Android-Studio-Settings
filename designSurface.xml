@@ -69,6 +69,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/acti_settings.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/acti_settings_join.xml" value="0.25" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/acti_wifi_config.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/acti_wifi_networks.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_base.xml" value="0.18205128205128204" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_scrolling.xml" value="0.15942028985507245" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/content_secondary.xml" value="0.22" />
@@ -113,6 +114,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_web.xml" value="0.1" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/header_dhcp_info.xml" value="0.1308876811594203" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/header_post_details.xml" value="0.25" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/header_wifi_config.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/item_ap.xml" value="0.5" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/item_ap_config.xml" value="0.33" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/item_ap_config_reauth.xml" value="0.33" />
