@@ -194,6 +194,8 @@
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout-notround-watch/alert_dialog_title_material.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout/activity_chooser_view_list_item.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout/chooser_grid.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Sdk/platforms/android-30/data/res/drawable/list_selector_background.xml" value="0.2" />
+        <entry key="..\:/Android/Sdk/platforms/android-30/data/res/drawable/list_selector_background_transition.xml" value="0.2" />
       </map>
     </option>
   </component>
