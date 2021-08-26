@@ -39,6 +39,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_camera.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_cut.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_database_refresh.xml" value="0.2" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_delete.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_folder.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_google_pay.xml" value="0.2" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/drawable/ic_location_on.xml" value="0.2" />
@@ -190,6 +191,7 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/settings.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/wifi_cfg.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/wifi_networks.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/menu/wifi_networks_context.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/xml/prefs.xml" value="0.22" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout-notround-watch/alert_dialog_title_material.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Sdk/platforms/android-29/data/res/layout/activity_chooser_view_list_item.xml" value="0.18489583333333334" />
