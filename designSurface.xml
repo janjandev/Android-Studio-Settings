@@ -131,7 +131,12 @@
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_port_sort_filter.xml" value="0.16983695652173914" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_screenshot_chart.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/dialog_share_wifi.xml" value="0.25" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/empty_no_data.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/emptyview_ap_list.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/emptyview_no_data_scrolling.xml" value="0.22" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/emptyview_ping.xml" value="0.22" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/emptyview_port_scan.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/emptyview_scrolling.xml" value="0.18854166666666666" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_app_version_form.xml" value="0.22" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_app_versions.xml" value="0.16983695652173914" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/main/res/layout/frag_admin_form_app_version.xml" value="0.22" />
