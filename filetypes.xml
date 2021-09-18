@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aa" type="ARCHIVE" />
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="ogg" type="Native" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
+      <mapping ext="oga" type="Native" />
+      <mapping ext="ogg" type="Native" />
       <mapping ext="db" type="Native" />
-      <mapping pattern="colors" type="PLAIN_TEXT" />
       <mapping pattern="oui" type="PLAIN_TEXT" />
+      <mapping pattern="colors" type="PLAIN_TEXT" />
       <mapping ext="arb" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
