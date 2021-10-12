@@ -3,7 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/Project/My/App/BotFi/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Android/Project/My/App/BotFi/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Android/Project/My/App/BotFi/app/src/main/res/layout/app_bar_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android/Project/My/App/BotFi/app/src/main/res/layout/content_main.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/BotFi/app/src/main/res/layout/fragment_home.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/acti_main.xml" value="0.18489583333333334" />
         <entry key="..\:/Android/Project/My/App/WiFi Service/app/src/free/res/layout/acti_scan.xml" value="0.15942028985507245" />
