@@ -1,5 +1,6 @@
 <application>
   <component name="MissingInActions">
     <option name="onPastePreserve" value="false" />
+    <option name="primaryCaretColor" value="-16777216" />
   </component>
 </application>
