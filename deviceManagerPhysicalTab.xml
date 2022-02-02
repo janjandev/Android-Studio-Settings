@@ -19,9 +19,9 @@
             <value value="R58MB1NZKND" />
           </Key>
         </key>
-        <name value="samsung SM-A7070" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -30,7 +30,7 @@
             <value value="192.168.1.106:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-02T08:24:46.529957400Z" />
+        <lastOnlineTime value="2022-02-02T11:18:12.562196200Z" />
         <name value="Meizu PRO 7-H" />
         <target value="Android 7.0" />
         <api value="24" />
