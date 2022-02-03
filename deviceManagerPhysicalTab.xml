@@ -30,7 +30,6 @@
             <value value="192.168.1.106:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-03T02:24:46.678280600Z" />
         <name value="Meizu PRO 7-H" />
         <target value="Android 7.0" />
         <api value="24" />
@@ -42,7 +41,7 @@
             <value value="192.168.1.107:5557" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-03T02:24:28.143525100Z" />
+        <lastOnlineTime value="2022-02-03T03:08:16.510514600Z" />
         <name value="samsung SM-A7070" />
         <target value="Android 11.0" />
         <api value="30" />
