@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R38M202PE2A" />
+          </Key>
+        </key>
+        <name value="samsung SM-G973U1" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="792QBER9226LA" />
           </Key>
         </key>
@@ -56,18 +67,6 @@
         <name value="Meizu PRO 7-H" />
         <target value="Android 7.0" />
         <api value="24" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R38M202PE2A" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-02-25T13:01:25.583181200Z" />
-        <name value="samsung SM-G973U1" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
