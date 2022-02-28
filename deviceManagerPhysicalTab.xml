@@ -8,7 +8,6 @@
             <value value="R38M202PE2A" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-27T08:57:53.654960100Z" />
         <name value="samsung SM-G973U1" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -20,6 +19,7 @@
             <value value="792QBER9226LA" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-02-28T00:58:54.489717400Z" />
         <name value="Meizu PRO 7-H" />
         <target value="Android 7.0" />
         <api value="24" />
