@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="aa" type="ARCHIVE" />
+      <mapping pattern="a24f8cfb4a3558afbeaada982480ccbc" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
