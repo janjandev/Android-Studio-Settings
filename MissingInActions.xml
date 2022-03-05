@@ -2,5 +2,6 @@
   <component name="MissingInActions">
     <option name="onPastePreserve" value="false" />
     <option name="primaryCaretColor" value="-16777216" />
+    <option name="spawnMatchBoundarySearch" value="false" />
   </component>
 </application>
