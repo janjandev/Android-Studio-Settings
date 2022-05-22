@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R5CT1234RGT" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-22T12:18:29.694965700Z" />
+        <name value="samsung SM-A5260" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R38M202PE2A" />
           </Key>
         </key>
