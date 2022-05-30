@@ -8,6 +8,7 @@
             <value value="R38M202PE2A" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-05-30T05:53:23.496283400Z" />
         <name value="samsung SM-G973U1" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -19,7 +20,6 @@
             <value value="R5CT1234RGT" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-23T06:25:43.053724100Z" />
         <name value="samsung SM-A5260" />
         <target value="Android 12.0" />
         <api value="31" />
