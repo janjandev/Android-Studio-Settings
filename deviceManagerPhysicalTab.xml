@@ -8,7 +8,6 @@
             <value value="R38M202PE2A" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-11T14:39:20.088867100Z" />
         <name value="samsung SM-G973U1" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -53,7 +52,6 @@
             <value value="192.168.1.106:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-08T18:02:59.542271100Z" />
         <name value="Meizu PRO 7-H" />
         <target value="Android 7.0" />
         <api value="24" />
@@ -79,6 +77,17 @@
         <name value="Meizu PRO 7-H" />
         <target value="Android 7.0" />
         <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="26031JEGR10926" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6a" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
