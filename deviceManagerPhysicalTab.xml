@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="26031JEGR10926" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6a" />
+        <target value="Android API 33" />
+        <api value="33" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R38M202PE2A" />
           </Key>
         </key>
@@ -77,17 +88,6 @@
         <name value="Meizu PRO 7-H" />
         <target value="Android 7.0" />
         <api value="24" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="26031JEGR10926" />
-          </Key>
-        </key>
-        <name value="Google Pixel 6a" />
-        <target value="Android API 33" />
-        <api value="33" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
