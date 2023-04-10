@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:RootViewDeferringInsetsCallback level:debug " />
+        <option value="package:mine tag=:RootViewDeferringInsetsCallback" />
+        <option value="package:mine tag:RootViewDeferringInsetsCallback" />
+        <option value="package:mine tag:" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
       </list>
