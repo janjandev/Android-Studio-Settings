@@ -8,7 +8,7 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="external.system.auto.import.disabled" value="true" />
-    <entry key="ide.images.show.chessboard" value="true" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
 </application>
