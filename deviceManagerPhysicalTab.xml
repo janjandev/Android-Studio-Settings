@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="26031JEGR10926" />
-          </Key>
-        </key>
-        <name value="Google Pixel 6a" />
-        <target value="Android API 33" />
-        <api value="33" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="R38M202PE2A" />
           </Key>
         </key>
         <name value="samsung SM-G973U1" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="26031JEGR10926" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6a" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
